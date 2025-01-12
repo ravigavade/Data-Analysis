@@ -1,0 +1,16 @@
+Sleep Data Analysis
+
+Overview
+
+Sleep plays a critical role in overall health and well-being. This project delves into sleep patterns, exploring factors influencing sleep quality and providing actionable insights to promote better rest. Using data science techniques, we analyze sleep behaviors, uncover trends, and even predict sleep quality based on lifestyle and biometric factors.
+
+Key Features
+
+Exploratory Data Analysis (EDA): Uncover patterns and correlations in sleep data.
+
+Machine Learning Modeling: Predict sleep quality with a random forest classifier.
+
+Visualizations: Generate heatmaps, scatter plots, and line charts to illustrate key findings.
+
+Actionable Insights: Provide recommendations for improving sleep quality.
+
